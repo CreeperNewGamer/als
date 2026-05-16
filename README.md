@@ -24,7 +24,7 @@ curl -sSfL https://github.com/CreeperNewGamer/als/raw/refs/heads/main/install.sh
 
 # Demo
 
-![Demo](/Demo.gif)
+![Demo](https://github.com/CreeperNewGamer/als/blob/main/Demo.gif?raw=true)
 
 ## 📜 License
 
