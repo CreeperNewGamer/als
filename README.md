@@ -22,6 +22,10 @@ To install **als** globally on your system, run this single command. It will dow
 curl -sSfL https://github.com/CreeperNewGamer/als/raw/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
 
+# Demo
+
+![Demo](/Demo.gif)
+
 ## 📜 License
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. Feel free to use, modify, and distribute it, keeping the terminal open and free for everyone! See the `LICENSE` file for details.
