@@ -19,7 +19,7 @@ A powerful, intelligent, and beautifully styled **Bash wrapper** for Linux and T
 To install **als** globally on your system, run this single command. It will download the utility, configure the system binary paths, and completely clean up after itself:
 
 ```bash
-curl -sSfL [https://github.com/CreeperNewGamer/als/raw/refs/heads/main/install.sh](https://github.com/CreeperNewGamer/als/raw/refs/heads/main/install.sh) -o install.sh && chmod +x install.sh && ./install.sh
+curl -sSfL https://github.com/CreeperNewGamer/als/raw/refs/heads/main/install.sh https install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ## 📜 License
